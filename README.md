@@ -1,2 +1,2 @@
-# pyhon_practical_test
+# python_practical_test
 This repository contains the solution to a Python practical test focused on object-oriented programming (OOP) concepts, inheritance, data structures, and logical problem-solving. The test includes tasks such as creating classes, managing attributes, and implementing methods for various real-world scenarios like a Car, Animal, Recipe, and Inventory. It demonstrates the use of loops, functions, and data structures like dictionaries, lists, and sets. Each section emphasizes key programming principles including class instantiation, inheritance, method overriding, and more, aimed at beginners to intermediate Python learners.
